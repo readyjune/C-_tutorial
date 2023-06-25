@@ -1,0 +1,15 @@
+/Users/jinwookim/Projects/Tutorial/Tutorial/bin/Debug/net7.0/GetterSetter
+/Users/jinwookim/Projects/Tutorial/Tutorial/bin/Debug/net7.0/GetterSetter.deps.json
+/Users/jinwookim/Projects/Tutorial/Tutorial/bin/Debug/net7.0/GetterSetter.runtimeconfig.json
+/Users/jinwookim/Projects/Tutorial/Tutorial/bin/Debug/net7.0/GetterSetter.dll
+/Users/jinwookim/Projects/Tutorial/Tutorial/bin/Debug/net7.0/GetterSetter.pdb
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/GetterSetter.csproj.AssemblyReference.cache
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/GetterSetter.AssemblyInfoInputs.cache
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/GetterSetter.AssemblyInfo.cs
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/GetterSetter.csproj.CoreCompileInputs.cache
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/GetterSetter.dll
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/refint/GetterSetter.dll
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/GetterSetter.pdb
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/GetterSetter.genruntimeconfig.cache
+/Users/jinwookim/Projects/Tutorial/Tutorial/obj/Debug/net7.0/ref/GetterSetter.dll
