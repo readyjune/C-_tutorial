@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/StaticClassAttributes.csproj": {}
+  },
+  "projects": {
+    "/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/StaticClassAttributes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/StaticClassAttributes.csproj",
+        "projectName": "StaticClassAttributes",
+        "projectPath": "/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/StaticClassAttributes.csproj",
+        "packagesPath": "/Users/jinwookim/.nuget/packages/",
+        "outputPath": "/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jinwookim/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

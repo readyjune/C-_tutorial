@@ -1,0 +1,15 @@
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/bin/Debug/net7.0/StaticClassAttributes
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/bin/Debug/net7.0/StaticClassAttributes.deps.json
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/bin/Debug/net7.0/StaticClassAttributes.runtimeconfig.json
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/bin/Debug/net7.0/StaticClassAttributes.dll
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/bin/Debug/net7.0/StaticClassAttributes.pdb
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/StaticClassAttributes.csproj.AssemblyReference.cache
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/StaticClassAttributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/StaticClassAttributes.AssemblyInfoInputs.cache
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/StaticClassAttributes.AssemblyInfo.cs
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/StaticClassAttributes.csproj.CoreCompileInputs.cache
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/StaticClassAttributes.dll
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/refint/StaticClassAttributes.dll
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/StaticClassAttributes.pdb
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/StaticClassAttributes.genruntimeconfig.cache
+/Users/jinwookim/Projects/StaticClassAttributes/StaticClassAttributes/obj/Debug/net7.0/ref/StaticClassAttributes.dll
